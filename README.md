@@ -22,11 +22,9 @@ https://github.com/hiboux-94/Interface-graphique-projet-S.A.R.A.H-19
 
 Téléchargez cet Add-On en cliquant sur le bouton vert en haut à droite "Clone or download" puis cliquez sur "Download ZIP" pour la télécharger sur un emplacement de votre disque dur, puis dézippez les répertoires sous C:/user/xxx/documents/rainmeter/skins/Jarvis-V2
 
-#### Cette sous interface graphique contient plusieurs ring supplémentaires sur le thème Steampunk à dézziper directement sous 
-
 ## Manipulations dans RainMeter :
 
-#### 1 => Après avoir suivi et installé mon interface graphique n°19, dézipper et copier les éventuels sous-dossiers directement sous C:/user/xxx/documents/rainmeter/skins/Jarvis-V2/
+#### 1 => Après avoir suivi et installé mon interface graphique n°19, dézipper et copier les fichiers et les éventuels sous-dossiers directement sous C:/user/xxx/documents/rainmeter/skins/Jarvis-V2/
 
 #### 2 => Lancer RainMeter, puis cliquer sur l’icône dans le systray pour afficher la fenêtre de gestion.
 
